@@ -15,6 +15,7 @@ public class Application {
 		
 		System.out.println(cat1.age);
 		
+//		if(cat1.getIsHomeAnimal()==true) {} else {}
 //		cat1.setNickname("Nick");
 //		cat1.setInitials();
 //		System.out.println(cat1.getInitials());
