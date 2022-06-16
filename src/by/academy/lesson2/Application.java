@@ -1,4 +1,4 @@
-package main.java.by.academy.lesson2;
+package by.academy.lesson2;
 
 public class Application {
 	public static void main(String[] args) {
