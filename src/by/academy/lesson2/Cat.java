@@ -41,6 +41,7 @@ public class Cat {
  	public void setInitials() {
  		this.initials=nickname.charAt(0);
  	}
+//--второй способ реализации 	
 // 	public void setInitials2(String nick) {
 // 		this.initials=nick.charAt(0);
 // 	}

@@ -14,7 +14,8 @@ public class Application {
 		cat1.grow();
 		
 		System.out.println(cat1.age);
-		
+
+//------тестовые
 //		if(cat1.getIsHomeAnimal()==true) {} else {}
 //		cat1.setNickname("Nick");
 //		cat1.setInitials();
